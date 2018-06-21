@@ -3,3 +3,4 @@ MyReads is a project from Udacity's React Nanodegree course. This is a bookshelf
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+Here what the app looks like
