@@ -5,4 +5,4 @@ MyReads is a project from Udacity's React Nanodegree course. This is a bookshelf
 
 Here is what the app looks like
 
-<img src="mainpage.GIF" width="300px">
+<img src="mainpage.gif" width="300px">
