@@ -19,19 +19,19 @@ If the user clicks on the + button which is located at the bottom right corner o
 
 Installation
 
--To install the application clone this git repository
+- To install the application clone this git repository
 
 $ git clone https://github.com/ampreetarsh/reactnd-project-myreads-starter.git myreads
 
--Go into the application folder
+- Go into the application folder
 
 cd myreads
 
--Install dependencies usingnpm command line tool
+- Install dependencies usingnpm command line tool
 
 $ npm install
 
--Run the application, again using npm
+- Run the application, again using
 
 $ npm start
 
