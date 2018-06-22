@@ -5,17 +5,17 @@ MyReads is a project from Udacity's React Nanodegree course. This is a bookshelf
 
 Here is what the app looks like
 
-<img src="imgs/mainpage.gif" width="300px">
+<img src="imgs/mainpage.gif" width="500px">
 
 How to use the app
 
 Home page displays three shelves that are 'cureently reading', 'want to read' and 'read'. User can click on the dropdown menu which is located at bottom right corner of every book to change the current shelf to 'currently reading', 'want to read' or 'read'
 
-<img src="imgs/shelf.gif" width="300px">
+<img src="imgs/shelf.gif" width="500px">
 
 If the user clicks on the + button which is located at the bottom right corner of the page, it will take the user to the search page and user can search for more books by "author" or "book" name and can add books to their shelves by clicking on the drop-down menu.
 
-<img src="imgs/search.gif" width="300px">
+<img src="imgs/search.gif" width="500px">
 
 Installation
 
