@@ -7,9 +7,9 @@ Here is what the app looks like
 
 <img src="imgs/mainpage.gif" width="800px">
 
-How to use the app
+## How to use the app
 
-Home page displays three shelves that are 'cureently reading', 'want to read' and 'read'. User can click on the dropdown menu which is located at bottom right corner of every book to change the current shelf to 'currently reading', 'want to read' or 'read'
+Home page displays three shelves that are 'currently reading', 'want to read' and 'read'. User can click on the dropdown menu which is located at bottom right corner of every book to change the current shelf to 'currently reading', 'want to read' or 'read'
 
 <img src="imgs/shelf.gif" width="800px">
 
@@ -17,7 +17,7 @@ If the user clicks on the + button which is located at the bottom right corner o
 
 <img src="imgs/search.gif" width="800px">
 
-Installation
+## Installation
 
 - To install the application clone this git repository
 
